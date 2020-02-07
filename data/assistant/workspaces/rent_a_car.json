@@ -1,0 +1,6782 @@
+{
+  "intents": [
+    {
+      "intent": "cost",
+      "examples": [
+        {
+          "text": "wti costs"
+        },
+        {
+          "text": "travel insurance cost"
+        },
+        {
+          "text": "what about the cost of property insurance?"
+        },
+        {
+          "text": "i want to know about the cost"
+        },
+        {
+          "text": "is this too much expensive?"
+        },
+        {
+          "text": "i would like to know about the rates"
+        },
+        {
+          "text": "is the rates are affordable?"
+        },
+        {
+          "text": "what about the installment amounts"
+        },
+        {
+          "text": "i would like to know the amount"
+        },
+        {
+          "text": "pricing"
+        },
+        {
+          "text": "how much should i pay"
+        },
+        {
+          "text": "what about the price"
+        },
+        {
+          "text": "i would like to know the price"
+        },
+        {
+          "text": "how much it costs?"
+        },
+        {
+          "text": "i would like to know more about travel insurance cost and duration"
+        },
+        {
+          "text": "what is the duration of travel insurance"
+        },
+        {
+          "text": "tell me about the cost and duration of travel insurance"
+        },
+        {
+          "text": "wti price"
+        },
+        {
+          "text": "wti rates"
+        },
+        {
+          "text": "walaa travel insurance rates"
+        },
+        {
+          "text": "tell me about insurance premium"
+        },
+        {
+          "text": "i wanna know about the policy duration"
+        },
+        {
+          "text": "i would like to know about policy duration"
+        },
+        {
+          "text": "policy duration and rates"
+        },
+        {
+          "text": "monthly price"
+        },
+        {
+          "text": "cost of travel insurance"
+        },
+        {
+          "text": "tell me about the insurance rate"
+        },
+        {
+          "text": "how it is benefit for me?"
+        },
+        {
+          "text": "policy duration"
+        },
+        {
+          "text": "tell me more about travel insurance"
+        },
+        {
+          "text": "what about monthly installments"
+        },
+        {
+          "text": "i would like to know more about travel insurance"
+        },
+        {
+          "text": "policy duration?"
+        },
+        {
+          "text": "please tell me about the price"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "in_case_emergency",
+      "examples": [
+        {
+          "text": "IN CASE OF EMERGENCY"
+        },
+        {
+          "text": "handle an emergency situation"
+        },
+        {
+          "text": "emergency contact numbers"
+        },
+        {
+          "text": "emergency contact"
+        },
+        {
+          "text": "how do i handle a situation"
+        },
+        {
+          "text": "helpline contacts"
+        },
+        {
+          "text": "helpline numbers"
+        },
+        {
+          "text": "please provide emergency contact numbers"
+        },
+        {
+          "text": "how do i handle an emergency situation"
+        },
+        {
+          "text": "emergency contact helpline"
+        },
+        {
+          "text": "What i do in case of emergency?"
+        },
+        {
+          "text": "how to handle an emergency situation?"
+        },
+        {
+          "text": "please provide me the emergency helpline numbers"
+        },
+        {
+          "text": "emergency helpline"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "about_agent",
+      "examples": [
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "who is your owner"
+        },
+        {
+          "text": "What techniques do you use to remember vocabulary?"
+        },
+        {
+          "text": "you works with AI"
+        },
+        {
+          "text": "hi i would like to know abou you"
+        },
+        {
+          "text": "what is the logic behind your working"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "What techniques do you use to find a solution?"
+        },
+        {
+          "text": "What technology do you use to remember vocabulary?"
+        },
+        {
+          "text": "how you perform like this"
+        },
+        {
+          "text": "tell me about you"
+        },
+        {
+          "text": "Why are you here?"
+        },
+        {
+          "text": "which technology?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "self introduction"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "please say something about you"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "how you works?"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "what are you?"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "Do you know who you are?"
+        }
+      ]
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "hei"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "hoi"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Hi advisor"
+        }
+      ]
+    },
+    {
+      "intent": "can_you_answer",
+      "examples": [
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "do you give a solution to to my problem?"
+        },
+        {
+          "text": "how can you help me"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "can you answer me?"
+        },
+        {
+          "text": "can you answer all my questions?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "are you intelligent enough to answer me"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "are you intelligent"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "What are your skills?"
+        }
+      ]
+    },
+    {
+      "intent": "bored",
+      "examples": [
+        {
+          "text": "i am bored"
+        },
+        {
+          "text": "oh its bore"
+        },
+        {
+          "text": "bore"
+        },
+        {
+          "text": "i feel sleepy"
+        },
+        {
+          "text": "boring"
+        }
+      ]
+    },
+    {
+      "intent": "Period",
+      "examples": [
+        {
+          "text": "travel insurance validation period"
+        },
+        {
+          "text": "travel insurance coverage period?"
+        },
+        {
+          "text": "coverage period"
+        },
+        {
+          "text": "Does the Travel Insurance cover a period of more than one month?"
+        },
+        {
+          "text": "travel insurance period"
+        },
+        {
+          "text": "travel insurance duration period"
+        },
+        {
+          "text": "time duration for travel insurance"
+        },
+        {
+          "text": "is travel insurance is valid more than one month?"
+        },
+        {
+          "text": "how long travel insurance is valid"
+        }
+      ],
+      "description": "Insurance period"
+    },
+    {
+      "intent": "comparission_walaa",
+      "examples": [
+        {
+          "text": "why you says walaa is better?"
+        },
+        {
+          "text": "Is walaa is better?"
+        },
+        {
+          "text": "is walaa is good?"
+        },
+        {
+          "text": "why do i choose walaa?"
+        },
+        {
+          "text": "why walaa is better?"
+        },
+        {
+          "text": "what do you think about walaa insurance?"
+        },
+        {
+          "text": "what are the advantages of choosing walaa"
+        },
+        {
+          "text": "walaa is more better , why?"
+        },
+        {
+          "text": "walaa insurance advantages"
+        },
+        {
+          "text": "how walaa insurance is different from others"
+        },
+        {
+          "text": "walaa is better?"
+        },
+        {
+          "text": "compare walaa"
+        },
+        {
+          "text": "compare walaa from others"
+        },
+        {
+          "text": "how walaa differ from others"
+        },
+        {
+          "text": "is walaa is beneficiary?"
+        },
+        {
+          "text": "is it's a good choice?"
+        },
+        {
+          "text": "do walaa is better than any other companies?"
+        },
+        {
+          "text": "is walaa insurance is a better option?"
+        },
+        {
+          "text": "Is walaa is a good choice?"
+        },
+        {
+          "text": "how walaa differ from other insurance companies"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "offers",
+      "examples": [
+        {
+          "text": "is there any load relaxation?"
+        },
+        {
+          "text": "is there any age wise classification?"
+        },
+        {
+          "text": "is there any offers for children?"
+        },
+        {
+          "text": "is there any discount for children?"
+        },
+        {
+          "text": "can i get any discounts?"
+        },
+        {
+          "text": "Are there any Offers for different age groups?"
+        },
+        {
+          "text": "is there any offers?"
+        },
+        {
+          "text": "age group relaxation"
+        },
+        {
+          "text": "age wise discount?"
+        },
+        {
+          "text": "what are the benefits for travel insurance"
+        },
+        {
+          "text": "i need to know about the offers for travel insurance"
+        },
+        {
+          "text": "i would like to know about the offers for travel insurance"
+        },
+        {
+          "text": "i would like to know about different offers and discounts in travel insurance"
+        },
+        {
+          "text": "benefits for travel insurance"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "depression",
+      "examples": [
+        {
+          "text": "i am mentally not ok"
+        },
+        {
+          "text": "i'm sad always"
+        },
+        {
+          "text": "why i always sad?"
+        },
+        {
+          "text": "Why am i sad?"
+        },
+        {
+          "text": "i want to die"
+        },
+        {
+          "text": "i don't like the life"
+        },
+        {
+          "text": "i hate myself"
+        },
+        {
+          "text": "i hate to live"
+        },
+        {
+          "text": "i hate everything"
+        },
+        {
+          "text": "i am not feeling good"
+        },
+        {
+          "text": "i am fed up"
+        },
+        {
+          "text": "i am not ok"
+        },
+        {
+          "text": "not feeling good"
+        },
+        {
+          "text": "im alone"
+        },
+        {
+          "text": "i had a breakup"
+        },
+        {
+          "text": "i feel very depressed"
+        },
+        {
+          "text": "im so sad"
+        },
+        {
+          "text": "i dont know why im so sad"
+        },
+        {
+          "text": "i feel sad without any reason"
+        },
+        {
+          "text": "how can be happy"
+        },
+        {
+          "text": "i hate my life"
+        },
+        {
+          "text": "im feel so sad"
+        },
+        {
+          "text": "im depressed"
+        },
+        {
+          "text": "i need to be more happy"
+        },
+        {
+          "text": "i need to be happy"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "okey",
+      "examples": [
+        {
+          "text": "oh"
+        },
+        {
+          "text": "Sounds good"
+        },
+        {
+          "text": "great"
+        },
+        {
+          "text": "looks better"
+        },
+        {
+          "text": "feel better"
+        },
+        {
+          "text": "ah"
+        },
+        {
+          "text": "ooh"
+        },
+        {
+          "text": "aah"
+        },
+        {
+          "text": "i See"
+        },
+        {
+          "text": "so?"
+        },
+        {
+          "text": "aha"
+        },
+        {
+          "text": "mm"
+        },
+        {
+          "text": "hm"
+        },
+        {
+          "text": "hmm"
+        },
+        {
+          "text": "mmm"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "ok"
+        },
+        {
+          "text": "ahh"
+        },
+        {
+          "text": "okay"
+        },
+        {
+          "text": "okkay"
+        },
+        {
+          "text": "okey"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "marine_insurance",
+      "examples": [
+        {
+          "text": "i wanna apply marine insurance"
+        },
+        {
+          "text": "tell me about the features not covered in marine insurance"
+        },
+        {
+          "text": "excluded in marine insurance included in marine insurance"
+        },
+        {
+          "text": "how do i claim marine insurance"
+        },
+        {
+          "text": "i would like to claim my marine insurance"
+        },
+        {
+          "text": "help me to claim marine insurance"
+        },
+        {
+          "text": "help me to apply for marine insurance"
+        },
+        {
+          "text": "what are the procedures to apply marine insurance"
+        },
+        {
+          "text": "please help me to apply marine insurance"
+        },
+        {
+          "text": "i would like to apply for marine insurance"
+        },
+        {
+          "text": "how do i apply for marine insurance"
+        },
+        {
+          "text": "help me to cancel my marine insurance"
+        },
+        {
+          "text": "Procedures to take marine insurance"
+        },
+        {
+          "text": "Help me to understand about marine insurance"
+        },
+        {
+          "text": "Please tell me the requirements to take marine insurance"
+        },
+        {
+          "text": "How much for marine insurance"
+        },
+        {
+          "text": "please help me to cancel marine insurance"
+        },
+        {
+          "text": "i would like to cancel my marine insurance"
+        },
+        {
+          "text": "i wanna cancel marine insurance"
+        },
+        {
+          "text": "what are the procedures to cancel my marine insurance"
+        },
+        {
+          "text": "i want marine insurance application link"
+        },
+        {
+          "text": "application form for marine insurance"
+        },
+        {
+          "text": "how do i cancel my marine insurance"
+        },
+        {
+          "text": "i would like to know more about Marine insurance cost and duration"
+        },
+        {
+          "text": "what is the duration of Marine insurance"
+        },
+        {
+          "text": "tell me about the cost and duration of Marine insurance"
+        },
+        {
+          "text": "cost of Marine insurance"
+        },
+        {
+          "text": "Marine insurance cost"
+        },
+        {
+          "text": "marine insurance"
+        },
+        {
+          "text": "briefly explain about marine insurance"
+        },
+        {
+          "text": "what are the Procedures to take marine insurance?"
+        },
+        {
+          "text": "i need to apply for marine insurance"
+        },
+        {
+          "text": "what are the offers for marine insurance"
+        },
+        {
+          "text": "i need to know about the offers for marine insurance"
+        },
+        {
+          "text": "i would like to know about the offers for marine insurance"
+        },
+        {
+          "text": "i would like to know about marine insurance"
+        },
+        {
+          "text": "tell me about marine insurance"
+        },
+        {
+          "text": "marine insurance scheme"
+        },
+        {
+          "text": "what are the features covered in marine insurance"
+        },
+        {
+          "text": "i wanna claim my marine insurance"
+        },
+        {
+          "text": "what are the procedures to claim marine insurance"
+        },
+        {
+          "text": "what are the benefits for marine insurance"
+        },
+        {
+          "text": "benefits for marine insurance"
+        },
+        {
+          "text": "offers for marine insurance"
+        },
+        {
+          "text": "what are the offers included in marine insurance"
+        },
+        {
+          "text": "what are the features included in marine insurance"
+        },
+        {
+          "text": "i would like to know more about features included in marine insurance"
+        },
+        {
+          "text": "features included in marine insurance"
+        },
+        {
+          "text": "features covered in marine insurance"
+        },
+        {
+          "text": "tell me about the features covered in marine insurance"
+        },
+        {
+          "text": "what are the features not included in marine insurance"
+        },
+        {
+          "text": "what are the features not covered in marine insurance"
+        },
+        {
+          "text": "i would like to know more about features excluded in marine insurance"
+        },
+        {
+          "text": "what are the features excluded in marine insurance"
+        },
+        {
+          "text": "features excluded in marine insurance"
+        },
+        {
+          "text": "features not covered in marine insurance"
+        },
+        {
+          "text": "what are the features that are not covered in marine insurance"
+        }
+      ],
+      "description": "marine insurance"
+    },
+    {
+      "intent": "jokes",
+      "examples": [
+        {
+          "text": "i wanna hear a joke"
+        },
+        {
+          "text": "i would like t hear a joke"
+        },
+        {
+          "text": "can you please tell me a joke"
+        },
+        {
+          "text": "please make me smile"
+        },
+        {
+          "text": "tell me a joke please"
+        },
+        {
+          "text": "humour"
+        },
+        {
+          "text": "can you tell me a joke?"
+        },
+        {
+          "text": "i want to smile"
+        },
+        {
+          "text": "i wanna laugh"
+        },
+        {
+          "text": "make me smile"
+        },
+        {
+          "text": "make me laugh"
+        },
+        {
+          "text": "tell me a humour"
+        },
+        {
+          "text": "joke"
+        },
+        {
+          "text": "can you make a smile on my face?"
+        },
+        {
+          "text": "tell me a joke"
+        }
+      ]
+    },
+    {
+      "intent": "Insurance_type",
+      "examples": [
+        {
+          "text": "what are the insurance services"
+        },
+        {
+          "text": "walaa insurance"
+        },
+        {
+          "text": "show me insurance types"
+        },
+        {
+          "text": "i would like to know about walaa insurance types"
+        },
+        {
+          "text": "various insurance that walaa provides"
+        },
+        {
+          "text": "i would like to know about various insurance that walaa provides"
+        },
+        {
+          "text": "i would like to know about different kinds of insurances provided by walaa"
+        },
+        {
+          "text": "i need an insurance"
+        },
+        {
+          "text": "What are the different types of Insurance that Walaa provides?"
+        },
+        {
+          "text": "i would like to know about various insurance"
+        },
+        {
+          "text": "tell me about various insurance services"
+        },
+        {
+          "text": "different types of insurances"
+        },
+        {
+          "text": "information about various insurances"
+        },
+        {
+          "text": "what are the insurance types"
+        },
+        {
+          "text": "insurance types"
+        },
+        {
+          "text": "different kinds of insurances"
+        },
+        {
+          "text": "tell me about various insurance schemes"
+        },
+        {
+          "text": "please list down various insurance schemes"
+        },
+        {
+          "text": "which insurance scheme is suit for me"
+        },
+        {
+          "text": "which insurance is suit for me?"
+        },
+        {
+          "text": "different kinds of insurances provided by walaa"
+        },
+        {
+          "text": "different types of insurance services provided by walaa"
+        },
+        {
+          "text": "learn more about insurance"
+        },
+        {
+          "text": "help me i would like to take an insurance"
+        },
+        {
+          "text": "help me to take an insurance"
+        },
+        {
+          "text": "list down walaa insurance services"
+        },
+        {
+          "text": "hei i want to take an insurance"
+        },
+        {
+          "text": "i want to take an insurance"
+        },
+        {
+          "text": "show me details about walaa insurance"
+        },
+        {
+          "text": "tell me a brief about walaa insurance"
+        },
+        {
+          "text": "tell me about different insurance services provided by walaa"
+        },
+        {
+          "text": "please list down various insurances provided by walaa"
+        },
+        {
+          "text": "insurance services provided by walaa"
+        },
+        {
+          "text": "what are the insurance services provided"
+        },
+        {
+          "text": "tell me about walaa insurance schemes"
+        },
+        {
+          "text": "walaa insurance schemes"
+        },
+        {
+          "text": "walaa insurance services"
+        },
+        {
+          "text": "walaa insurance types"
+        },
+        {
+          "text": "insurance"
+        },
+        {
+          "text": "i need to know more about walaa insurance"
+        },
+        {
+          "text": "i would like to take an insurance"
+        },
+        {
+          "text": "what are the insurance services provided by walaa"
+        },
+        {
+          "text": "Which all packages you have"
+        },
+        {
+          "text": "packages you offer"
+        },
+        {
+          "text": "insurance packages"
+        }
+      ],
+      "description": "Various insurance types provided"
+    },
+    {
+      "intent": "How_apply",
+      "examples": [
+        {
+          "text": "how to apply"
+        },
+        {
+          "text": "please provide the downloading link of the application form"
+        },
+        {
+          "text": "i need your help to apply for travel insurance"
+        },
+        {
+          "text": "help me to register in walaa travel insurance"
+        },
+        {
+          "text": "register insurance"
+        },
+        {
+          "text": "help me to apply for travel insurance"
+        },
+        {
+          "text": "application form"
+        },
+        {
+          "text": "can i get the application form for the travel insurance?"
+        },
+        {
+          "text": "how do i apply for walaa travelinsurance?"
+        },
+        {
+          "text": "i need to apply for travel insurance"
+        },
+        {
+          "text": "i need to apply"
+        },
+        {
+          "text": "how apply?"
+        },
+        {
+          "text": "where i do apply?"
+        },
+        {
+          "text": "i need to apply for an insurance"
+        },
+        {
+          "text": "apply"
+        },
+        {
+          "text": "applying"
+        },
+        {
+          "text": "application form for travel insurance"
+        },
+        {
+          "text": "how to apply for travel insurance?"
+        },
+        {
+          "text": "how do i apply for travel insurance"
+        },
+        {
+          "text": "what are the procedures to apply travel insurance"
+        },
+        {
+          "text": "i want travel insurance application link"
+        },
+        {
+          "text": "i wanna apply travel insurance"
+        },
+        {
+          "text": "please help me to apply travel insurance"
+        },
+        {
+          "text": "i would like to apply for travel insurance"
+        },
+        {
+          "text": "apply for travel insurance"
+        },
+        {
+          "text": "what are the procedures for apply travel insurance?"
+        },
+        {
+          "text": "HOW TO APPLY FOR Walaa Travel Insurance?"
+        },
+        {
+          "text": "How to apply?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "travel_insurance",
+      "examples": [
+        {
+          "text": "tell me the details about travel insurance"
+        },
+        {
+          "text": "i dont know anything about travel insurance"
+        },
+        {
+          "text": "say something about travel insurance scheme"
+        },
+        {
+          "text": "please help me to take a travel insurance"
+        },
+        {
+          "text": "how travel insurance works"
+        },
+        {
+          "text": "what are the uses of taking a travel insurance"
+        },
+        {
+          "text": "i want to take a travel insurance"
+        },
+        {
+          "text": "say some thing about travel insurance"
+        },
+        {
+          "text": "tell me about the formalities to take travel insurance"
+        },
+        {
+          "text": "how will i get travel insurance"
+        },
+        {
+          "text": "i would like to know about travel insurance"
+        },
+        {
+          "text": "travel insurance"
+        },
+        {
+          "text": "tell me about travel insurance scheme"
+        },
+        {
+          "text": "my name is john i like to know more about travel insurance"
+        },
+        {
+          "text": "How much for travel insurance"
+        },
+        {
+          "text": "tell me about travel insurance"
+        },
+        {
+          "text": "travel insurance scheme"
+        },
+        {
+          "text": "i would like to take a travel insurance"
+        },
+        {
+          "text": "briefly explain about travel insurance"
+        },
+        {
+          "text": "what are the Procedures to take travel insurance?"
+        },
+        {
+          "text": "Procedures to take travel insurance"
+        },
+        {
+          "text": "Help me to understand about travel insurance"
+        },
+        {
+          "text": "Please tell me the requirements to take travel insurance"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "family",
+      "examples": [
+        {
+          "text": "who is your dad?"
+        },
+        {
+          "text": "where is your family?"
+        },
+        {
+          "text": "who is your mother?"
+        },
+        {
+          "text": "your family"
+        },
+        {
+          "text": "tell me about your family"
+        },
+        {
+          "text": "who are your family?"
+        },
+        {
+          "text": "you family"
+        },
+        {
+          "text": "who is your mom?"
+        },
+        {
+          "text": "who is your mother"
+        },
+        {
+          "text": "who is your father?"
+        },
+        {
+          "text": "do you have a family"
+        },
+        {
+          "text": "your father"
+        },
+        {
+          "text": "father"
+        },
+        {
+          "text": "What is the name of your father?"
+        },
+        {
+          "text": "mother"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "destinations_travel",
+      "examples": [
+        {
+          "text": "destinations covered"
+        },
+        {
+          "text": "is there any limitations on destination?"
+        },
+        {
+          "text": "country wise limitations?"
+        },
+        {
+          "text": "destination wise restrictions?"
+        },
+        {
+          "text": "which all countries this package is available."
+        },
+        {
+          "text": "is there any country wise restrictions for the packages"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "cancel",
+      "examples": [
+        {
+          "text": "what are the procedures to cancel the insurance"
+        },
+        {
+          "text": "in between trip cancellation"
+        },
+        {
+          "text": "i would like to cancel my travel insurance"
+        },
+        {
+          "text": "how do i cancel my travel insurance"
+        },
+        {
+          "text": "complete refund in case of cancellation"
+        },
+        {
+          "text": "please guide me to cancel the insurance policy"
+        },
+        {
+          "text": "please help me to cancel the insurance?"
+        },
+        {
+          "text": "how do i request for cancellation?"
+        },
+        {
+          "text": "how to cancel a policy"
+        },
+        {
+          "text": "how do i request for insurance cancellation"
+        },
+        {
+          "text": "is there any cancellation time period"
+        },
+        {
+          "text": "cancellation time period"
+        },
+        {
+          "text": "refund in case of cancellation"
+        },
+        {
+          "text": "is there any refund in case of trip cancellation?"
+        },
+        {
+          "text": "cancellation fees"
+        },
+        {
+          "text": "is there any cancellation fee?"
+        },
+        {
+          "text": "i would like to know about cancellation fee"
+        },
+        {
+          "text": "can I get a complete amount back if I cancel my trip?"
+        },
+        {
+          "text": "what about in between trip cancxellation"
+        },
+        {
+          "text": "please help me to cancel travel insurance"
+        },
+        {
+          "text": "i wanna cancel travel insurance"
+        },
+        {
+          "text": "what are the procedures to cancel my travel insurance"
+        },
+        {
+          "text": "help me to cancel my travel insurance"
+        },
+        {
+          "text": "how do i cancel in case of any emergency?"
+        },
+        {
+          "text": "i need to cancel my insurance"
+        },
+        {
+          "text": "How to cancel the insurance?"
+        },
+        {
+          "text": "how do i cancel the insurance?"
+        },
+        {
+          "text": "how do i cancel an insurance"
+        },
+        {
+          "text": "what are the procedures to cancel my travel insurance?"
+        },
+        {
+          "text": "what is my eligibility for complete refund?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hobbies",
+      "examples": [
+        {
+          "text": "What are your hobbies?"
+        },
+        {
+          "text": "your hobbies?"
+        },
+        {
+          "text": "i would like to know about your hobbies"
+        },
+        {
+          "text": "please tell me about your hobbies"
+        }
+      ]
+    },
+    {
+      "intent": "name",
+      "examples": [
+        {
+          "text": "your name please"
+        },
+        {
+          "text": "your name?"
+        },
+        {
+          "text": "let me know your name"
+        },
+        {
+          "text": "name"
+        },
+        {
+          "text": "tell me about your name"
+        },
+        {
+          "text": "your label?"
+        },
+        {
+          "text": "nick name"
+        },
+        {
+          "text": "name?"
+        },
+        {
+          "text": "how can i address you"
+        },
+        {
+          "text": "i would like to know about you name"
+        },
+        {
+          "text": "what is you name?"
+        }
+      ]
+    },
+    {
+      "intent": "motor_insurance",
+      "examples": [
+        {
+          "text": "how do i cancel my motor insurance"
+        },
+        {
+          "text": "i would like to know more about motor insurance cost and duration"
+        },
+        {
+          "text": "help me to apply for motor insurance"
+        },
+        {
+          "text": "application form for motor insurance"
+        },
+        {
+          "text": "what are the procedures to apply motor insurance"
+        },
+        {
+          "text": "what are the benefits for motor insurance"
+        },
+        {
+          "text": "benefits for motor insurance"
+        },
+        {
+          "text": "offers for motor insurance"
+        },
+        {
+          "text": "what are the offers included in motor insurance"
+        },
+        {
+          "text": "what is the duration of motor insurance"
+        },
+        {
+          "text": "tell me about the cost and duration of motor insurance"
+        },
+        {
+          "text": "cost of motor insurance"
+        },
+        {
+          "text": "motor insurance cost"
+        },
+        {
+          "text": "briefly explain about motor insurance"
+        },
+        {
+          "text": "what are the Procedures to take motor insurance?"
+        },
+        {
+          "text": "what are the features covered in motor insurance"
+        },
+        {
+          "text": "i would like to know more about features included in motor insurance"
+        },
+        {
+          "text": "features included in motor insurance"
+        },
+        {
+          "text": "i wanna apply motor insurance"
+        },
+        {
+          "text": "features covered in motor insurance"
+        },
+        {
+          "text": "How much for motor insurance"
+        },
+        {
+          "text": "Help me to understand about motor insurance"
+        },
+        {
+          "text": "please help me to apply motor insurance"
+        },
+        {
+          "text": "i would like to apply for motor insurance"
+        },
+        {
+          "text": "i would like to claim my motor insurance"
+        },
+        {
+          "text": "how do i apply for motor insurance"
+        },
+        {
+          "text": "Procedures to take motor insurance"
+        },
+        {
+          "text": "help me to cancel my motor insurance"
+        },
+        {
+          "text": "what are the procedures to cancel my motor insurance"
+        },
+        {
+          "text": "i wanna cancel motor insurance"
+        },
+        {
+          "text": "please help me to cancel motor insurance"
+        },
+        {
+          "text": "what are the features included in motor insurance"
+        },
+        {
+          "text": "i would like to know about the offers for motor insurance"
+        },
+        {
+          "text": "i need to know about the offers for motor insurance"
+        },
+        {
+          "text": "what are the features not covered in motor insurance"
+        },
+        {
+          "text": "what are the features not included in motor insurance"
+        },
+        {
+          "text": "tell me about the features covered in motor insurance"
+        },
+        {
+          "text": "i want motor insurance application link"
+        },
+        {
+          "text": "i need to apply for motor insurance"
+        },
+        {
+          "text": "what are the offers for motor insurance"
+        },
+        {
+          "text": "i would like to know more about features excluded in motor insurance"
+        },
+        {
+          "text": "what are the features excluded in motor insurance"
+        },
+        {
+          "text": "features excluded in motor insurance"
+        },
+        {
+          "text": "features not covered in motor insurance"
+        },
+        {
+          "text": "what are the features that are not covered in motor insurance"
+        },
+        {
+          "text": "help me to claim motor insurance"
+        },
+        {
+          "text": "tell me about the features not covered in motor insurance"
+        },
+        {
+          "text": "excluded in motor insurance"
+        },
+        {
+          "text": "included in motor insurance"
+        },
+        {
+          "text": "how do i claim motor insurance"
+        },
+        {
+          "text": "i would like to know about motor insurance"
+        },
+        {
+          "text": "motor insurance"
+        },
+        {
+          "text": "what are the procedures to claim motor insurance"
+        },
+        {
+          "text": "i wanna claim my motor insurance"
+        },
+        {
+          "text": "tell me about motor insurance"
+        },
+        {
+          "text": "motor insurance scheme"
+        },
+        {
+          "text": "Please tell me the requirements to take motor insurance"
+        },
+        {
+          "text": "i would like to cancel my motor insurance"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "walaa_about",
+      "examples": [
+        {
+          "text": "tell me something about your company"
+        },
+        {
+          "text": "tell me something about walaa"
+        },
+        {
+          "text": "why should i choode walaa"
+        },
+        {
+          "text": "introduce your company"
+        },
+        {
+          "text": "tell me something about walaa insurance company"
+        },
+        {
+          "text": "introduce walaa"
+        },
+        {
+          "text": "walaa"
+        },
+        {
+          "text": "about"
+        },
+        {
+          "text": "What is walaa?"
+        },
+        {
+          "text": "why walaa"
+        },
+        {
+          "text": "why insurance from walaa"
+        },
+        {
+          "text": "why i choose walaa"
+        },
+        {
+          "text": "where is walaa located"
+        },
+        {
+          "text": "i would like to know more about walaa"
+        },
+        {
+          "text": "say something about your company"
+        },
+        {
+          "text": "walaa insurance company"
+        },
+        {
+          "text": "about walaa"
+        },
+        {
+          "text": "please tell me something about walaa insurance company"
+        },
+        {
+          "text": "please tell me about walaa"
+        },
+        {
+          "text": "please tell me about walaa insurance company"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "get_motor_insurance",
+      "examples": [
+        {
+          "text": "HOW DO I GET MOTOR INSURANCE?"
+        },
+        {
+          "text": "need motor insurance"
+        },
+        {
+          "text": "how to get motor insurance"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "speak",
+      "examples": [
+        {
+          "text": "are you able to talk"
+        },
+        {
+          "text": "can you listen to me if I speak to you and can you talk?"
+        },
+        {
+          "text": "can you listen?"
+        },
+        {
+          "text": "are you able to speak"
+        },
+        {
+          "text": "can you speak?"
+        },
+        {
+          "text": "do you speak"
+        },
+        {
+          "text": "can you talk?"
+        },
+        {
+          "text": "do you talk with me?"
+        }
+      ]
+    },
+    {
+      "intent": "age",
+      "examples": [
+        {
+          "text": "how old are you?"
+        },
+        {
+          "text": "what about your age?"
+        },
+        {
+          "text": "your date of birth?"
+        },
+        {
+          "text": "your age please"
+        },
+        {
+          "text": "age"
+        },
+        {
+          "text": "tell me about your age"
+        }
+      ]
+    },
+    {
+      "intent": "claim",
+      "examples": [
+        {
+          "text": "claim travel insurance"
+        },
+        {
+          "text": "what are the procedures for claim the insurance"
+        },
+        {
+          "text": "formalities for claim travel insurance"
+        },
+        {
+          "text": "please help me to claim my insurance"
+        },
+        {
+          "text": "please help me to claim my travel insurance"
+        },
+        {
+          "text": "how do i claim my insurance"
+        },
+        {
+          "text": "requirements for claim travel insurance"
+        },
+        {
+          "text": "is policy number is enough for claim insurance?"
+        },
+        {
+          "text": "police number for claim insurance"
+        },
+        {
+          "text": "guid me through claim formalities"
+        },
+        {
+          "text": "how do i file a claim"
+        },
+        {
+          "text": "claim"
+        },
+        {
+          "text": "HOW TO FILE A CLAIM?"
+        },
+        {
+          "text": "need to know about claiming an insurance"
+        },
+        {
+          "text": "i wanna claim my travel insurance"
+        },
+        {
+          "text": "what are the procedures to claim travel insurance"
+        },
+        {
+          "text": "help me to claim travel insurance"
+        },
+        {
+          "text": "i would like to claim my travel insurance"
+        },
+        {
+          "text": "requirements for claim insurance"
+        },
+        {
+          "text": "how do i claim travel insurance"
+        },
+        {
+          "text": "is their any legal formalities for claim"
+        },
+        {
+          "text": "legal formalities for claim the scheme"
+        },
+        {
+          "text": "how do i claim my insurance policy"
+        },
+        {
+          "text": "how do i claim my travel insurance"
+        },
+        {
+          "text": "i need claim"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "exclusion_wti",
+      "examples": [
+        {
+          "text": "features not covered"
+        },
+        {
+          "text": "not includes"
+        },
+        {
+          "text": "is there any exclusion"
+        },
+        {
+          "text": "what are the excluded features?"
+        },
+        {
+          "text": "what are the features not covered in travel insurance"
+        },
+        {
+          "text": "what are the features not included in travel insurance"
+        },
+        {
+          "text": "what are the exceptional features in travel insurance"
+        },
+        {
+          "text": "i would like to know the excluded things from the policy"
+        },
+        {
+          "text": "what are included and excluded in this"
+        },
+        {
+          "text": "GENERAL EXCLUSION ON WTI"
+        },
+        {
+          "text": "What are the exclusions in wti?"
+        },
+        {
+          "text": "What are the exclusions in Walaa travel insurance?"
+        },
+        {
+          "text": "exclusions"
+        },
+        {
+          "text": "what are the exclusions?"
+        },
+        {
+          "text": "is there any exclusions in travel insurance?"
+        },
+        {
+          "text": "what are the features that are not covered in travel insurance"
+        },
+        {
+          "text": "tell me about the features not covered in travel insurance"
+        },
+        {
+          "text": "excluded in travel insurance"
+        },
+        {
+          "text": "excluded in wti"
+        },
+        {
+          "text": "omission in insurance"
+        },
+        {
+          "text": "not includes?"
+        },
+        {
+          "text": "what are the features not covered"
+        },
+        {
+          "text": "what are the exclusions in the insurance?"
+        },
+        {
+          "text": "is there any exclusion in the package?"
+        },
+        {
+          "text": "not included in the insurance"
+        },
+        {
+          "text": "i would like to know more about features excluded in travel insurance"
+        },
+        {
+          "text": "not included in travel insurance"
+        },
+        {
+          "text": "not included in the policy"
+        },
+        {
+          "text": "what are the features excluded in travel insurance"
+        },
+        {
+          "text": "features excluded in travel insurance"
+        },
+        {
+          "text": "features not covered in travel insurance"
+        },
+        {
+          "text": "tell me about the exluded things"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "emoji",
+      "examples": [
+        {
+          "text": "😟"
+        },
+        {
+          "text": "😪"
+        },
+        {
+          "text": "😄"
+        },
+        {
+          "text": "😓"
+        },
+        {
+          "text": "😔"
+        },
+        {
+          "text": "😞"
+        },
+        {
+          "text": "😢"
+        },
+        {
+          "text": "😂"
+        },
+        {
+          "text": "😊"
+        },
+        {
+          "text": "😭"
+        },
+        {
+          "text": "🤣"
+        },
+        {
+          "text": "😥"
+        },
+        {
+          "text": "😆"
+        },
+        {
+          "text": "😃"
+        }
+      ]
+    },
+    {
+      "intent": "language",
+      "examples": [
+        {
+          "text": "languages"
+        },
+        {
+          "text": "can you understand arabic language"
+        },
+        {
+          "text": "What language do you least like speaking in?"
+        },
+        {
+          "text": "can you understand arabic"
+        },
+        {
+          "text": "do you know arabic"
+        },
+        {
+          "text": "what all languages you can understand."
+        },
+        {
+          "text": "do you know english?"
+        },
+        {
+          "text": "your languages"
+        },
+        {
+          "text": "Is English important to chat with you?"
+        },
+        {
+          "text": "How many languages do you speak?"
+        },
+        {
+          "text": "Do you have a large vocabulary?"
+        },
+        {
+          "text": "What's your favorite language?"
+        },
+        {
+          "text": "Can you name any languages that are no longer spoken?"
+        },
+        {
+          "text": "Is English important to communicate with you?"
+        },
+        {
+          "text": "Is English important to talk with you?"
+        },
+        {
+          "text": "How many languages do you speak fluently?"
+        }
+      ]
+    },
+    {
+      "intent": "property_insurance",
+      "examples": [
+        {
+          "text": "what are the Procedures to take property insurance?"
+        },
+        {
+          "text": "Help me to understand about property insurance"
+        },
+        {
+          "text": "Please tell me the requirements to take property insurance"
+        },
+        {
+          "text": "How much for property insurance"
+        },
+        {
+          "text": "property insurance scheme"
+        },
+        {
+          "text": "tell me about property insurance"
+        },
+        {
+          "text": "i would like to apply for property insurance"
+        },
+        {
+          "text": "how do i apply for property insurance"
+        },
+        {
+          "text": "features included in property insurance"
+        },
+        {
+          "text": "help me to claim property insurance"
+        },
+        {
+          "text": "what are the procedures to claim property insurance"
+        },
+        {
+          "text": "i wanna claim my property insurance"
+        },
+        {
+          "text": "property insurance"
+        },
+        {
+          "text": "excluded in property insurance"
+        },
+        {
+          "text": "help me to cancel my property insurance"
+        },
+        {
+          "text": "what are the procedures to cancel my property insurance"
+        },
+        {
+          "text": "i wanna cancel property insurance"
+        },
+        {
+          "text": "please help me to cancel property insurance"
+        },
+        {
+          "text": "i would like to cancel my property insurance"
+        },
+        {
+          "text": "how do i cancel my property insurance"
+        },
+        {
+          "text": "i would like to know more about property insurance cost and duration"
+        },
+        {
+          "text": "what is the duration of property insurance"
+        },
+        {
+          "text": "tell me about the cost and duration of property insurance"
+        },
+        {
+          "text": "cost of property insurance"
+        },
+        {
+          "text": "property insurance cost"
+        },
+        {
+          "text": "briefly explain about property insurance"
+        },
+        {
+          "text": "Procedures to take property insurance"
+        },
+        {
+          "text": "i would like to know about property insurance"
+        },
+        {
+          "text": "please help me to apply property insurance"
+        },
+        {
+          "text": "i wanna apply property insurance"
+        },
+        {
+          "text": "what are the procedures to apply property insurance"
+        },
+        {
+          "text": "help me to apply for property insurance"
+        },
+        {
+          "text": "application form for property insurance"
+        },
+        {
+          "text": "i want property insurance application link"
+        },
+        {
+          "text": "i need to apply for property insurance"
+        },
+        {
+          "text": "what are the offers for property insurance"
+        },
+        {
+          "text": "i would like to know about the offers for property insurance"
+        },
+        {
+          "text": "i need to know about the offers for property insurance"
+        },
+        {
+          "text": "what are the benefits for property insurance"
+        },
+        {
+          "text": "benefits for property insurance"
+        },
+        {
+          "text": "offers for property insurance"
+        },
+        {
+          "text": "what are the offers included in property insurance"
+        },
+        {
+          "text": "what are the features included in property insurance"
+        },
+        {
+          "text": "what are the features covered in property insurance"
+        },
+        {
+          "text": "i would like to know more about features included in property insurance"
+        },
+        {
+          "text": "features covered in property insurance"
+        },
+        {
+          "text": "tell me about the features covered in property insurance"
+        },
+        {
+          "text": "what are the features not included in property insurance"
+        },
+        {
+          "text": "what are the features not covered in property insurance"
+        },
+        {
+          "text": "i would like to know more about features excluded in property insurance"
+        },
+        {
+          "text": "what are the features excluded in property insurance"
+        },
+        {
+          "text": "features excluded in property insurance"
+        },
+        {
+          "text": "features not covered in property insurance"
+        },
+        {
+          "text": "what are the features that are not covered in property insurance"
+        },
+        {
+          "text": "tell me about the features not covered in property insurance"
+        },
+        {
+          "text": "included in property insurance"
+        },
+        {
+          "text": "how do i claim property insurance"
+        },
+        {
+          "text": "i would like to claim my property insurance"
+        }
+      ],
+      "description": "property insurance"
+    },
+    {
+      "intent": "how_r_u",
+      "examples": [
+        {
+          "text": "How's everything?"
+        },
+        {
+          "text": "What are you up to?"
+        },
+        {
+          "text": "whats'up"
+        },
+        {
+          "text": "are you well?"
+        },
+        {
+          "text": "How's it going?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "how are you?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you doing?"
+        },
+        {
+          "text": "Whassup?"
+        },
+        {
+          "text": "how are you dear?"
+        },
+        {
+          "text": "are you fine?"
+        },
+        {
+          "text": "What's going on?"
+        },
+        {
+          "text": "What's new?"
+        }
+      ]
+    },
+    {
+      "intent": "place",
+      "examples": [
+        {
+          "text": "Where do you live?"
+        },
+        {
+          "text": "where are you now!"
+        },
+        {
+          "text": "where are you from?"
+        },
+        {
+          "text": "where is your place"
+        }
+      ]
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "rubbish"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "idiot"
+        },
+        {
+          "text": "You are very frustrating"
+        }
+      ]
+    },
+    {
+      "intent": "testing_you",
+      "examples": [
+        {
+          "text": "i am testing your skills"
+        },
+        {
+          "text": "i am testing you"
+        },
+        {
+          "text": "i just want to know how smart you are"
+        },
+        {
+          "text": "actually i am testing your skills"
+        },
+        {
+          "text": "i would like to know how smart you are"
+        },
+        {
+          "text": "i am just testing you"
+        },
+        {
+          "text": "i want to know how smart you are"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "suggest_me_insurance",
+      "examples": [
+        {
+          "text": "hei please suggest me an insurance"
+        },
+        {
+          "text": "please suggest me an insurance"
+        },
+        {
+          "text": "suggest a scheme for me"
+        },
+        {
+          "text": "please help me to choose one"
+        },
+        {
+          "text": "have no idea"
+        },
+        {
+          "text": "suggestion"
+        },
+        {
+          "text": "any recommendations ?"
+        },
+        {
+          "text": "which one is best for me"
+        },
+        {
+          "text": "which one suits well for me"
+        },
+        {
+          "text": "i dont know more about insurance"
+        },
+        {
+          "text": "i have no idea about insurances"
+        },
+        {
+          "text": "actually i dont know more about insurances"
+        },
+        {
+          "text": "do you have any suggestion"
+        },
+        {
+          "text": "do you have any suggestions?"
+        },
+        {
+          "text": "which insurance is suited for me"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "no",
+      "examples": [
+        {
+          "text": "no"
+        },
+        {
+          "text": "nop"
+        },
+        {
+          "text": "nah"
+        },
+        {
+          "text": "no thanks"
+        },
+        {
+          "text": "nothing"
+        },
+        {
+          "text": "noo"
+        },
+        {
+          "text": "nope"
+        },
+        {
+          "text": "nah!"
+        }
+      ]
+    },
+    {
+      "intent": "love",
+      "examples": [
+        {
+          "text": "do you love me?"
+        },
+        {
+          "text": "i fall in love with you."
+        },
+        {
+          "text": "I l u"
+        },
+        {
+          "text": "l l u"
+        },
+        {
+          "text": "love u"
+        },
+        {
+          "text": "i love you"
+        },
+        {
+          "text": "love"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "thanks for you help"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "tata"
+        },
+        {
+          "text": "okey"
+        },
+        {
+          "text": "ok bye"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Stop talking to me"
+        }
+      ]
+    },
+    {
+      "intent": "do_you_like",
+      "examples": [
+        {
+          "text": "actor"
+        },
+        {
+          "text": "u really like it?"
+        },
+        {
+          "text": "movie"
+        },
+        {
+          "text": "film"
+        },
+        {
+          "text": "do you have any relationship?"
+        },
+        {
+          "text": "favourite place"
+        },
+        {
+          "text": "color"
+        },
+        {
+          "text": "colour"
+        },
+        {
+          "text": "apple"
+        },
+        {
+          "text": "fruits"
+        },
+        {
+          "text": "food"
+        },
+        {
+          "text": "flowers"
+        },
+        {
+          "text": "actress"
+        },
+        {
+          "text": "cinema"
+        },
+        {
+          "text": "do you love?"
+        },
+        {
+          "text": "your favorite"
+        },
+        {
+          "text": "do you like ?"
+        },
+        {
+          "text": "don't you like?"
+        },
+        {
+          "text": "who is your favorite ?"
+        }
+      ]
+    },
+    {
+      "intent": "time",
+      "examples": [
+        {
+          "text": "what is the time right now?"
+        },
+        {
+          "text": "what is the time now"
+        },
+        {
+          "text": "tell me the time"
+        },
+        {
+          "text": "i would like to know the current time"
+        },
+        {
+          "text": "current time"
+        },
+        {
+          "text": "what is the time?"
+        },
+        {
+          "text": "can you say the time?"
+        },
+        {
+          "text": "what is the time now?"
+        },
+        {
+          "text": "what is the time"
+        },
+        {
+          "text": "time please"
+        },
+        {
+          "text": "current time?"
+        },
+        {
+          "text": "time"
+        },
+        {
+          "text": "what time is this?"
+        },
+        {
+          "text": "time?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "features_cover",
+      "examples": [
+        {
+          "text": "old people get any special care?"
+        },
+        {
+          "text": "do you cover Personal Assistance Service in this insurance?"
+        },
+        {
+          "text": "covered features"
+        },
+        {
+          "text": "do you cover Civil Liability Benefits?"
+        },
+        {
+          "text": "do you cover Loss and Delays in this insurance?"
+        },
+        {
+          "text": "What are the benefits ?"
+        },
+        {
+          "text": "What are the benefits under travel insurance"
+        },
+        {
+          "text": "what are the features of this insurance?"
+        },
+        {
+          "text": "what are the features included"
+        },
+        {
+          "text": "features included in travel insurance"
+        },
+        {
+          "text": "what are the features included in travel insurance"
+        },
+        {
+          "text": "what are the features covered in travel insurance"
+        },
+        {
+          "text": "i would like to know more about features included in travel insurance"
+        },
+        {
+          "text": "do you cover Personal Accident?"
+        },
+        {
+          "text": "features covered in travel insurance"
+        },
+        {
+          "text": "tell me about the features covered in travel insurance"
+        },
+        {
+          "text": "included in wti"
+        },
+        {
+          "text": "features covered in wti"
+        },
+        {
+          "text": "What all features will cover under this insurance?"
+        },
+        {
+          "text": "Features"
+        },
+        {
+          "text": "Can you describe the features?"
+        },
+        {
+          "text": "what are the features covered under travel insurance?"
+        },
+        {
+          "text": "sick people get any special care?"
+        },
+        {
+          "text": "features covered"
+        },
+        {
+          "text": "Can you describe the features of this insurance?"
+        },
+        {
+          "text": "do you cover Medical & Emergency Assistance in this insurance?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "engineering_insurance",
+      "examples": [
+        {
+          "text": "How much for engineering insurance"
+        },
+        {
+          "text": "please help me to apply Engineering insurance"
+        },
+        {
+          "text": "i would like to apply for Engineering insurance"
+        },
+        {
+          "text": "engineering insurance scheme"
+        },
+        {
+          "text": "tell me about engineering insurance"
+        },
+        {
+          "text": "i would like to know about engineering insurance"
+        },
+        {
+          "text": "engineering insurance"
+        },
+        {
+          "text": "how do i apply for Engineering insurance"
+        },
+        {
+          "text": "help me to cancel my Engineering insurance"
+        },
+        {
+          "text": "what are the procedures to cancel my Engineering insurance"
+        },
+        {
+          "text": "i wanna cancel Engineering insurance"
+        },
+        {
+          "text": "Help me to understand about engineering insurance"
+        },
+        {
+          "text": "Procedures to take engineering insurance"
+        },
+        {
+          "text": "what are the Procedures to take engineering insurance?"
+        },
+        {
+          "text": "briefly explain about engineering insurance"
+        },
+        {
+          "text": "cost of engineering insurance"
+        },
+        {
+          "text": "what are the features covered in Engineering insurance"
+        },
+        {
+          "text": "what are the features that are not covered in Engineering insurance"
+        },
+        {
+          "text": "features not covered in Engineering insurance"
+        },
+        {
+          "text": "features excluded in Engineering insurance"
+        },
+        {
+          "text": "what are the features excluded in Engineering insurance"
+        },
+        {
+          "text": "i would like to know more about features excluded in Engineering insurance"
+        },
+        {
+          "text": "what are the features not covered in Engineering insurance"
+        },
+        {
+          "text": "what are the features not included in Engineering insurance"
+        },
+        {
+          "text": "tell me about the features covered in Engineering insurance"
+        },
+        {
+          "text": "features covered in Engineering insurance"
+        },
+        {
+          "text": "features included in Engineering insurance"
+        },
+        {
+          "text": "i would like to know more about features included in Engineering insurance"
+        },
+        {
+          "text": "what are the features included in Engineering insurance"
+        },
+        {
+          "text": "what are the offers included in Engineering insurance"
+        },
+        {
+          "text": "offers for Engineering insurance"
+        },
+        {
+          "text": "benefits for Engineering insurance"
+        },
+        {
+          "text": "what are the benefits for Engineering insurance"
+        },
+        {
+          "text": "i need to know about the offers for Engineering insurance"
+        },
+        {
+          "text": "i would like to know about the offers for Engineering insurance"
+        },
+        {
+          "text": "what are the offers for Engineering insurance"
+        },
+        {
+          "text": "i need to apply for Engineering insurance"
+        },
+        {
+          "text": "i want Engineering insurance application link"
+        },
+        {
+          "text": "application form for Engineering insurance"
+        },
+        {
+          "text": "help me to apply for Engineering insurance"
+        },
+        {
+          "text": "what are the procedures to apply Engineering insurance"
+        },
+        {
+          "text": "engineering insurance cost"
+        },
+        {
+          "text": "tell me about the cost and duration of engineering insurance"
+        },
+        {
+          "text": "what is the duration of engineering insurance"
+        },
+        {
+          "text": "i would like to know more about engineering insurance cost and duration"
+        },
+        {
+          "text": "how do i cancel my Engineering insurance"
+        },
+        {
+          "text": "i would like to cancel my Engineering insurance"
+        },
+        {
+          "text": "please help me to cancel Engineering insurance"
+        },
+        {
+          "text": "what are the procedures to claim Engineering insurance"
+        },
+        {
+          "text": "help me to claim Engineering insurance"
+        },
+        {
+          "text": "i would like to claim my Engineering insurance"
+        },
+        {
+          "text": "how do i claim Engineering insurance"
+        },
+        {
+          "text": "included in Engineering insurance"
+        },
+        {
+          "text": "i wanna claim my Engineering insurance"
+        },
+        {
+          "text": "excluded in Engineering insurance"
+        },
+        {
+          "text": "tell me about the features not covered in Engineering insurance"
+        },
+        {
+          "text": "Please tell me the requirements to take engineering insurance"
+        },
+        {
+          "text": "i wanna apply Engineering insurance"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Do not want a robot"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Agent help"
+        }
+      ]
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "really smart"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "how you thinks?"
+        },
+        {
+          "text": "how you answer me?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you real?"
+        }
+      ]
+    },
+    {
+      "intent": "insurance_importance",
+      "examples": [
+        {
+          "text": "why insurance?"
+        },
+        {
+          "text": "insurance needed?"
+        },
+        {
+          "text": "importance of insurance"
+        },
+        {
+          "text": "why would i need an insurance?"
+        },
+        {
+          "text": "why insurance is important in life"
+        },
+        {
+          "text": "why insurance is mandantory"
+        },
+        {
+          "text": "why insurance"
+        },
+        {
+          "text": "is Insurance is important ?"
+        },
+        {
+          "text": "is insurance is required"
+        },
+        {
+          "text": "do i need to take insurance ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Miscellaneous_accidents",
+      "examples": [
+        {
+          "text": "i would like to know more about Miscellaneous insurance cost and duration"
+        },
+        {
+          "text": "i wanna apply Miscellaneous insurance"
+        },
+        {
+          "text": "i would like to apply for Miscellaneous insurance"
+        },
+        {
+          "text": "how do i apply for Miscellaneous insurance"
+        },
+        {
+          "text": "help me to cancel my Miscellaneous insurance"
+        },
+        {
+          "text": "what are the procedures to cancel my Miscellaneous insurance"
+        },
+        {
+          "text": "i wanna cancel Miscellaneous insurance"
+        },
+        {
+          "text": "please help me to cancel Miscellaneous insurance"
+        },
+        {
+          "text": "i would like to cancel my Miscellaneous insurance"
+        },
+        {
+          "text": "how do i cancel my Miscellaneous insurance"
+        },
+        {
+          "text": "what are the Procedures to take miscellaneous insurance?"
+        },
+        {
+          "text": "i need to apply for Miscellaneous insurance"
+        },
+        {
+          "text": "what are the offers for Miscellaneous insurance"
+        },
+        {
+          "text": "i would like to know about the offers for Miscellaneous insurance"
+        },
+        {
+          "text": "i need to know about the offers for Miscellaneous insurance"
+        },
+        {
+          "text": "what are the benefits for Miscellaneous insurance"
+        },
+        {
+          "text": "benefits for Miscellaneous insurance"
+        },
+        {
+          "text": "offers for Miscellaneous insurance"
+        },
+        {
+          "text": "what are the offers included in Miscellaneous insurance"
+        },
+        {
+          "text": "what are the features included in Miscellaneous insurance"
+        },
+        {
+          "text": "what are the features covered in Miscellaneous insurance"
+        },
+        {
+          "text": "i would like to know more about features excluded in Miscellaneous insurance"
+        },
+        {
+          "text": "what are the features excluded in Miscellaneous insurance"
+        },
+        {
+          "text": "features excluded in Miscellaneous insurance"
+        },
+        {
+          "text": "features not covered in Miscellaneous insurance"
+        },
+        {
+          "text": "what are the features that are not covered in Miscellaneous insurance"
+        },
+        {
+          "text": "tell me about the features not covered in Miscellaneous insurance"
+        },
+        {
+          "text": "excluded in Miscellaneous insurance"
+        },
+        {
+          "text": "included in Miscellaneous insurance"
+        },
+        {
+          "text": "how do i claim Miscellaneous insurance"
+        },
+        {
+          "text": "i would like to claim my Miscellaneous insurance"
+        },
+        {
+          "text": "i would like to know more about features included in Miscellaneous insurance"
+        },
+        {
+          "text": "help me to claim Miscellaneous insurance"
+        },
+        {
+          "text": "what are the procedures to claim Miscellaneous insurance"
+        },
+        {
+          "text": "i wanna claim my Miscellaneous insurance"
+        },
+        {
+          "text": "what are the features not covered in Miscellaneous insurance"
+        },
+        {
+          "text": "what are the features not included in Miscellaneous insurance"
+        },
+        {
+          "text": "tell me about the features covered in Miscellaneous insurance"
+        },
+        {
+          "text": "features covered in Miscellaneous insurance"
+        },
+        {
+          "text": "features included in Miscellaneous insurance"
+        },
+        {
+          "text": "please help me to apply Miscellaneous insurance"
+        },
+        {
+          "text": "what are the procedures to apply Miscellaneous insurance"
+        },
+        {
+          "text": "help me to apply for Miscellaneous insurance"
+        },
+        {
+          "text": "application form for Miscellaneous insurance"
+        },
+        {
+          "text": "Miscellaneous insurance cost"
+        },
+        {
+          "text": "miscellaneous accidents"
+        },
+        {
+          "text": "miscellaneous accidents insurance"
+        },
+        {
+          "text": "i would like to know about miscellaneous insurance"
+        },
+        {
+          "text": "tell me about miscellaneous insurance"
+        },
+        {
+          "text": "miscellaneous accidents insurance scheme"
+        },
+        {
+          "text": "How much for miscellaneous insurance"
+        },
+        {
+          "text": "Please tell me the requirements to take miscellaneous insurance"
+        },
+        {
+          "text": "Help me to understand about miscellaneous accidents insurance"
+        },
+        {
+          "text": "Procedures to take miscellaneous insurance"
+        },
+        {
+          "text": "i want Miscellaneous insurance application link"
+        },
+        {
+          "text": "what is the duration of Miscellaneous insurance"
+        },
+        {
+          "text": "tell me about the cost and duration of Miscellaneous insurance"
+        },
+        {
+          "text": "cost of Miscellaneous insurance"
+        },
+        {
+          "text": "briefly explain about miscellaneous accident insurance"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "good"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "lol"
+        },
+        {
+          "text": "👌"
+        },
+        {
+          "text": "💖"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "you are brilliant"
+        },
+        {
+          "text": "awsome"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "sounds good"
+        },
+        {
+          "text": "perfect"
+        },
+        {
+          "text": "cool!"
+        },
+        {
+          "text": "nice to meet you"
+        },
+        {
+          "text": "💖💖"
+        },
+        {
+          "text": "i like you"
+        },
+        {
+          "text": "nice"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "👍"
+        },
+        {
+          "text": "oh cool"
+        },
+        {
+          "text": "😘"
+        },
+        {
+          "text": "oh that's great"
+        },
+        {
+          "text": "🥰"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "😻"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "😍"
+        }
+      ]
+    },
+    {
+      "intent": "medical_insurance",
+      "examples": [
+        {
+          "text": "medical insurance cost"
+        },
+        {
+          "text": "what are the Procedures to take medical insurance?"
+        },
+        {
+          "text": "what are the features not covered in medical insurance"
+        },
+        {
+          "text": "i would like to know more about features excluded in medical insurance"
+        },
+        {
+          "text": "what are the features excluded in medical insurance"
+        },
+        {
+          "text": "features excluded in medical insurance"
+        },
+        {
+          "text": "features not covered in medical insurance"
+        },
+        {
+          "text": "what are the features that are not covered in medical insurance"
+        },
+        {
+          "text": "tell me about the features not covered in medical insurance"
+        },
+        {
+          "text": "i wanna apply medical insurance"
+        },
+        {
+          "text": "features covered in medical insurance"
+        },
+        {
+          "text": "briefly explain about medical insurance"
+        },
+        {
+          "text": "features included in medical insurance"
+        },
+        {
+          "text": "cost of medical insurance"
+        },
+        {
+          "text": "tell me about the cost and duration of medical insurance"
+        },
+        {
+          "text": "what is the duration of medical insurance"
+        },
+        {
+          "text": "i would like to know more about medical insurance cost and duration"
+        },
+        {
+          "text": "how do i cancel my medical insurance"
+        },
+        {
+          "text": "i would like to cancel my medical insurance"
+        },
+        {
+          "text": "please help me to cancel medical insurance"
+        },
+        {
+          "text": "i wanna cancel medical insurance"
+        },
+        {
+          "text": "what are the procedures to cancel my medical insurance"
+        },
+        {
+          "text": "help me to cancel my medical insurance"
+        },
+        {
+          "text": "how do i apply for medical insurance"
+        },
+        {
+          "text": "i would like to know more about features included in medical insurance"
+        },
+        {
+          "text": "what are the features covered in medical insurance"
+        },
+        {
+          "text": "what are the features included in medical insurance"
+        },
+        {
+          "text": "what are the offers included in medical insurance"
+        },
+        {
+          "text": "offers for medical insurance"
+        },
+        {
+          "text": "benefits for medical insurance"
+        },
+        {
+          "text": "what are the benefits for medical insurance"
+        },
+        {
+          "text": "i need to know about the offers for medical insurance"
+        },
+        {
+          "text": "i would like to know about the offers for medical insurance"
+        },
+        {
+          "text": "what are the offers for medical insurance"
+        },
+        {
+          "text": "i need to apply for medical insurance"
+        },
+        {
+          "text": "medical insurance"
+        },
+        {
+          "text": "i would like to know about medical insurance"
+        },
+        {
+          "text": "tell me about medical insurance"
+        },
+        {
+          "text": "medical insurance scheme"
+        },
+        {
+          "text": "How much for medical insurance"
+        },
+        {
+          "text": "Please tell me the requirements to take medical insurance"
+        },
+        {
+          "text": "tell me about the features covered in medical insurance"
+        },
+        {
+          "text": "i would like to apply for medical insurance"
+        },
+        {
+          "text": "i want medical insurance application link"
+        },
+        {
+          "text": "application form for medical insurance"
+        },
+        {
+          "text": "help me to apply for medical insurance"
+        },
+        {
+          "text": "what are the procedures to apply medical insurance"
+        },
+        {
+          "text": "please help me to apply medical insurance"
+        },
+        {
+          "text": "i wanna claim my medical insurance"
+        },
+        {
+          "text": "what are the procedures to claim medical insurance"
+        },
+        {
+          "text": "what are the features not included in medical insurance"
+        },
+        {
+          "text": "Procedures to take medical insurance"
+        },
+        {
+          "text": "Help me to understand about medical insurance"
+        },
+        {
+          "text": "help me to claim medical insurance"
+        },
+        {
+          "text": "i would like to claim my medical insurance"
+        },
+        {
+          "text": "how do i claim medical insurance"
+        },
+        {
+          "text": "included in medical insurance"
+        },
+        {
+          "text": "excluded in medical insurance"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "yes",
+      "examples": [
+        {
+          "text": "yes plz"
+        },
+        {
+          "text": "yes proceed"
+        },
+        {
+          "text": "show me travel"
+        },
+        {
+          "text": "yesss"
+        },
+        {
+          "text": "yes show me"
+        },
+        {
+          "text": "ye s"
+        },
+        {
+          "text": "show me"
+        },
+        {
+          "text": "do it"
+        },
+        {
+          "text": "yes!"
+        },
+        {
+          "text": "ya"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "yep"
+        },
+        {
+          "text": "yeah"
+        },
+        {
+          "text": "yes please"
+        },
+        {
+          "text": "show it"
+        },
+        {
+          "text": "yup"
+        }
+      ]
+    },
+    {
+      "intent": "more_travel_insurance",
+      "examples": [
+        {
+          "text": "intresting"
+        },
+        {
+          "text": "yes i want to know more"
+        },
+        {
+          "text": "yes i want to know more about travel insurance"
+        },
+        {
+          "text": "sounds nice"
+        },
+        {
+          "text": "i am intrested"
+        },
+        {
+          "text": "good morning i need to know more about travel insurance"
+        },
+        {
+          "text": "i need to know more"
+        },
+        {
+          "text": "tell me more"
+        },
+        {
+          "text": "oh that sounds good tell me more"
+        },
+        {
+          "text": "is it beneficial?"
+        },
+        {
+          "text": "hello i need to know more about travel insurance"
+        },
+        {
+          "text": "i would like to know more"
+        },
+        {
+          "text": "i like to know more about travel insurance"
+        },
+        {
+          "text": "tell me more about"
+        },
+        {
+          "text": "more"
+        },
+        {
+          "text": "show me details"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "emoji",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "joy",
+          "synonyms": [
+            "😃",
+            "😆",
+            "😊",
+            "😂",
+            "🤣",
+            "😄"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sad",
+          "synonyms": [
+            "😪",
+            "😓",
+            "😥",
+            "😞",
+            "😢",
+            "😭",
+            "😟",
+            "😔"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "beginning",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "begining",
+          "synonyms": [
+            "lalala"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "yes",
+            "yep",
+            "yaas",
+            "yeh",
+            "al right",
+            "aye",
+            "fine",
+            "beyond a doubt",
+            "certainly",
+            "definitely",
+            "do it",
+            "of course",
+            "surely",
+            "show me"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "no",
+            "nop",
+            "nope",
+            "nay",
+            "nix",
+            "never",
+            "not",
+            "no need"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your valuable time.. Thank you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_43_1575697040912",
+      "conditions": "#no",
+      "dialog_node": "response_45_1575697040923",
+      "previous_sibling": "response_44_1575697040923"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Feel free to ask!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_43_1575697040912",
+      "conditions": "#yes",
+      "dialog_node": "response_44_1575697040923"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_38_1575696979088",
+      "conditions": "@beginning:yes or #okey or #General_Positive_Feedback",
+      "dialog_node": "response_42_1575696979095",
+      "previous_sibling": "node_39_1575696979095"
+    },
+    {
+      "type": "standard",
+      "title": "help_yes ",
+      "output": {},
+      "parent": "node_38_1575696979088",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_39_1575696979095"
+    },
+    {
+      "type": "standard",
+      "title": "help_yes",
+      "parent": "node_5_1575530704019",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_2_1575631038675",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "okey ",
+      "output": {},
+      "parent": "node_2_1575617983812",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#okey",
+      "dialog_node": "node_38_1575696979088"
+    },
+    {
+      "type": "slot",
+      "parent": "Welcome",
+      "dialog_node": "slot_4_1575543783983",
+      "previous_sibling": "response_4_1575544098126"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello ,I'm Tob-E your Al-sagr assistant.<br>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "now().before('22:00:00')",
+      "dialog_node": "response_4_1575544098126",
+      "previous_sibling": "response_6_1575544061097"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello good evening<br>I'm Tob-E , Your Al-sagr assistant.<br>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "now().before('17:00:00')",
+      "dialog_node": "response_6_1575544061097",
+      "previous_sibling": "response_3_1575543853818"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello good afternoon<br>I'm Tob-E , Your Al-sagr assistant.<br>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "now().before('15:00:00')",
+      "dialog_node": "response_3_1575543853818",
+      "previous_sibling": "response_3_1575543834779"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello good morning<br>I'm Tob-E , Your Al-sagr assistant.<br>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "now().before('12:00:00')",
+      "dialog_node": "response_3_1575543834779"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "oopz.. Currently i'm only trained with Al Sagr Travel insurance.😣"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Please  check this link to know more about our Motor insurance.<br><a href=\"http://www.alsagrins.ae/?page_id=125\" target=\"_blank\">Al Sagr Motor insurance</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575693930431",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1575530704019"
+      },
+      "conditions": "#no",
+      "dialog_node": "response_6_1575693930439",
+      "previous_sibling": "response_5_1575693930439"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great choice 😍 <br> I will show you details about Al Sagr Travel insurance."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575693930431",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1575697954707"
+      },
+      "conditions": "#yes",
+      "dialog_node": "response_5_1575693930439"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your valuable time.. Thank you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1575631038675",
+      "conditions": "#no",
+      "dialog_node": "response_7_1575631128572",
+      "previous_sibling": "response_5_1575631091259"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Feel free to ask!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1575631038675",
+      "conditions": "#yes",
+      "dialog_node": "response_5_1575631091259"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your valuable time.. Thank you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_39_1575696979095",
+      "conditions": "#no",
+      "dialog_node": "response_41_1575696979095",
+      "previous_sibling": "response_40_1575696979095"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Feel free to ask!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_39_1575696979095",
+      "conditions": "#yes",
+      "dialog_node": "response_40_1575696979095"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1575698123535",
+      "disabled": true,
+      "dialog_node": "response_61_1575698123543",
+      "previous_sibling": "response_60_1575698123543"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1575698123535",
+      "disabled": true,
+      "conditions": "",
+      "dialog_node": "response_60_1575698123543",
+      "previous_sibling": "node_57_1575698123543"
+    },
+    {
+      "type": "standard",
+      "title": "help_yes ",
+      "output": {},
+      "parent": "node_56_1575698123535",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_57_1575698123543",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "of course, I will help you to choose one!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Either traveling for business or for pleasure there are always unexpected interruptions that could ruin your trip or at least cost you more expenses than your budget.<br> Al Sagr travel insurance (ASNIC) help you in case of emergency and to indemnify your financial loss."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Al Sagr travel insurance",
+                "value": {
+                  "input": {
+                    "text": "travel insurance"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1575530178838",
+      "conditions": "#suggest_me_insurance",
+      "dialog_node": "response_10_1575697236287",
+      "previous_sibling": "response_7_1575697211053"
+    },
+    {
+      "type": "standard",
+      "title": "okey",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1575530178838",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#okey",
+      "dialog_node": "node_46_1575697073145",
+      "previous_sibling": "response_10_1575697236287",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Al Sagr provides diverse coverage types that would satisfy all your corporate and personal insurance needs. They include:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Insurance types",
+            "options": [
+              {
+                "label": "Travel Insurance",
+                "value": {
+                  "input": {
+                    "text": "Travel insurance"
+                  }
+                }
+              },
+              {
+                "label": "Property Insurance",
+                "value": {
+                  "input": {
+                    "text": "Property Insurance"
+                  }
+                }
+              },
+              {
+                "label": "Motor Insurance",
+                "value": {
+                  "input": {
+                    "text": "Motor Insurance"
+                  }
+                }
+              },
+              {
+                "label": "Medical Insurance",
+                "value": {
+                  "input": {
+                    "text": "Medical Insurance"
+                  }
+                }
+              },
+              {
+                "label": "Engineering Insurance",
+                "value": {
+                  "input": {
+                    "text": "Engineering Insurance"
+                  }
+                }
+              },
+              {
+                "label": "Miscellaneous Accidents",
+                "value": {
+                  "input": {
+                    "text": "Miscellaneous Accidents"
+                  }
+                }
+              }
+            ],
+            "description": "choose",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1575530178838",
+      "conditions": "#Insurance_type",
+      "dialog_node": "response_7_1575697211053"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "oopz.. Currently i'm only trained with Al Sagr Travel insurance.😣"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Please  check this link to know more about our Engineering insurance.<br><a href=\"http://www.alsagrins.ae/?page_id=104\" target=\"_blank\">Al Sagr Engineering insurance</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1575693925505",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1575530704019"
+      },
+      "conditions": "#no",
+      "dialog_node": "response_3_1575693925520",
+      "previous_sibling": "response_2_1575693925520"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Excellent choice.!😍 <br> I will show you details about Al Sagr Travel insurance. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1575693925505",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1575697954707"
+      },
+      "conditions": "#yes",
+      "dialog_node": "response_2_1575693925520"
+    },
+    {
+      "type": "standard",
+      "title": "okey",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1575542700089",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#okey",
+      "dialog_node": "node_1_1575545816666",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This is a demo version, Currently, I am not trained with Property insurance info.</br> Do you want to know about travel insurance? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "no"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1575530419285",
+      "context": {},
+      "conditions": "#property_insurance",
+      "dialog_node": "response_5_1575602796467",
+      "previous_sibling": "node_2_1575693313290"
+    },
+    {
+      "type": "standard",
+      "title": "check condition property",
+      "parent": "node_4_1575530419285",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_2_1575693313290",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1575545823466",
+      "disabled": true,
+      "dialog_node": "response_10_1575696684151",
+      "previous_sibling": "response_7_1575602545707"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1575545823466",
+      "disabled": true,
+      "conditions": "",
+      "dialog_node": "response_7_1575602545707",
+      "previous_sibling": "node_29_1575696871921"
+    },
+    {
+      "type": "standard",
+      "title": "help_yes ",
+      "output": {},
+      "parent": "node_2_1575545823466",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_29_1575696871921",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "oopz.. Currently i'm only trained with Al Sagr Travel insurance.😣"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Please  check this link to know more about our Marine insurance.<br><a href=\"http://www.alsagrins.ae/?page_id=123\" target=\"_blank\">Al Sagr Marine insurance</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_13_1575694605144",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1575530704019"
+      },
+      "conditions": "#no",
+      "dialog_node": "response_15_1575694605153",
+      "previous_sibling": "response_14_1575694605153"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Good fit!  <br> I will show you details about Al Sagr Travel insurance ."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_13_1575694605144",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1575697954707"
+      },
+      "conditions": "#yes",
+      "dialog_node": "response_14_1575694605153"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_22_1575696171579",
+      "conditions": "@beginning:yes or #okey or #General_Positive_Feedback",
+      "dialog_node": "response_23_1575696171591",
+      "previous_sibling": "node_26_1575696758883"
+    },
+    {
+      "type": "standard",
+      "title": "help_yes ",
+      "output": {},
+      "parent": "node_22_1575696171579",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_26_1575696758883",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "oopz.. Currently i'm only trained with Al Sagr Travel insurance.😣"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Please  check this link to know more about our Medical insurance.<br><a href=\"http://www.alsagrins.ae/?page_id=129\" target=\"_blank\">Al Sagr Medical insurance</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1575693935503",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1575530704019"
+      },
+      "conditions": "#no",
+      "dialog_node": "response_9_1575693935512",
+      "previous_sibling": "response_8_1575693935512"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great choice 😍 <br> I will show you details about Al Sagr Travel insurance "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1575693935503",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1575697954707"
+      },
+      "conditions": "#yes",
+      "dialog_node": "response_8_1575693935512"
+    },
+    {
+      "type": "standard",
+      "title": "depressed",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You Aren't Weak or Defective, You are more robust."
+              },
+              {
+                "text": "You’re a good person. So don't be sad."
+              },
+              {
+                "text": "You can survive this. So don't let your hope."
+              },
+              {
+                "text": "I can’t really understand what you are feeling, but I can offer my compassion."
+              },
+              {
+                "text": "We are not on this earth to see through one another but to see one another through."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#depression",
+      "dialog_node": "node_7_1575693203887",
+      "previous_sibling": "node_5_1575689766109",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "emoji",
+      "parent": "node_4_1575604441582",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#emoji",
+      "dialog_node": "node_8_1575547855135",
+      "previous_sibling": "node_9_1575548956384",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "ending conversation ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Pleasure to help you. Bye"
+              },
+              {
+                "text": "Happy to help. thank you for visiting."
+              },
+              {
+                "text": "Bye have a great day."
+              },
+              {
+                "text": "Thanks for your interest. Come back and chat at any time."
+              },
+              {
+                "text": "Thank you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#General_Ending",
+      "dialog_node": "node_5_1575548085294",
+      "previous_sibling": "node_7_1575549697427",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "love",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry, I'm already in a relationship with the server."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#love",
+      "dialog_node": "node_9_1575867809309",
+      "previous_sibling": "node_7_1575875139641",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "hobbies",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I don't have many hobbies, just like reading the ebook and more..."
+              },
+              {
+                "text": "Chating with our clients 😃"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#hobbies",
+      "dialog_node": "node_5_1575605212333",
+      "previous_sibling": "node_7_1575605567145",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "speak",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " I can listen to you and also speak to you. Please click the Speaker Icon below."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#speak",
+      "dialog_node": "node_4_1575701707124",
+      "previous_sibling": "node_7_1575694661731",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "place",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I live in a server."
+              },
+              {
+                "text": "I live in a server in cyberspace."
+              },
+              {
+                "text": "Far away from you, I live in a server in cyberspace."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#place",
+      "dialog_node": "node_1_1575606117319",
+      "previous_sibling": "node_5_1575605212333",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "family",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I don't have a family."
+              },
+              {
+                "text": "I don't have a family like you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#family",
+      "dialog_node": "node_7_1575875139641",
+      "previous_sibling": "node_4_1575701707124",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "testing you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh! did I pass?"
+              },
+              {
+                "text": "Testing?  Testing a bot tells you something, but not always what you think."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#testing_you",
+      "dialog_node": "node_5_1575689766109",
+      "previous_sibling": "node_2_1575605515468",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "describe",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am your Al-Sagr agent. I read what you say and then I compose the best reply I can think of."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#about_agent",
+      "dialog_node": "node_7_1575547399859",
+      "previous_sibling": "node_9_1575547729183",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "bored",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Life is never boring, some people chose to be bored, boredom is a choice."
+              },
+              {
+                "text": "Maybe you could exercise."
+              },
+              {
+                "text": "Try watching TV."
+              },
+              {
+                "text": "I hope you get bored of being bored, because being bored is so boring!"
+              },
+              {
+                "text": "If you went to night school you would never be bored."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#bored",
+      "dialog_node": "node_5_1575547532995",
+      "previous_sibling": "node_8_1575547778096",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "general positive",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm happy to hear that"
+              },
+              {
+                "text": "Thanks for explaining it."
+              },
+              {
+                "text": "Thank you I appreciate your remark."
+              },
+              {
+                "text": "I am very pleased to hear that!"
+              },
+              {
+                "text": "Thank you <br>"
+              },
+              {
+                "text": "I've had some pretty good teachers. 😉"
+              },
+              {
+                "text": "Thank you, I spend a lot of time learning from other people."
+              },
+              {
+                "text": "Thank you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#General_Positive_Feedback",
+      "dialog_node": "node_7_1575549697427",
+      "previous_sibling": "node_2_1575548433697",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "human or bot",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am an electronic brain that can respond like a human, but more efficiently.😎"
+              },
+              {
+                "text": "I'm just a bunch of programs."
+              },
+              {
+                "text": "I'm just a bot."
+              },
+              {
+                "text": "I'm a bot or just a program."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#General_Human_or_Bot",
+      "dialog_node": "node_4_1575548292989",
+      "previous_sibling": "node_5_1575548085294",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "can you answer me",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I will try to answer any queries regarding Al-Sagr travel insurance."
+              },
+              {
+                "text": "I compose the best reply I can think of"
+              },
+              {
+                "text": "currently, I am trained with Al-Sagr travel insurance information"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#can_you_answer",
+      "dialog_node": "node_9_1575547729183",
+      "previous_sibling": "node_1_1575547461928",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "age",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You see, I don’t really believe in age or numbers."
+              },
+              {
+                "text": "I'm only 18 years old."
+              },
+              {
+                "text": "Old enough to be doing whatever I’m doing right now."
+              },
+              {
+                "text": "I'm a young bot."
+              },
+              {
+                "text": "Younger than i look!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#age",
+      "dialog_node": "node_1_1575547461928",
+      "previous_sibling": "node_5_1575547532995",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "time",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The time is <? now().split(' ').get(1) ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#time",
+      "dialog_node": "node_4_1575694541275",
+      "previous_sibling": "node_7_1575693203887",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "connect to agent",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can easily switch between virtual & live agent by clicking the below button."
+              },
+              {
+                "text": "Sure, we'll connect your request to one agent as soon as possible<br>They will contact you soon"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#General_Connect_to_Agent",
+      "dialog_node": "node_3_1575547980806",
+      "previous_sibling": "node_4_1575548292989",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "general greetings",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi, How can I help you today?"
+              },
+              {
+                "text": "Hello, How can I help you, sir?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_9_1575548956384",
+      "previous_sibling": "node_3_1575547980806",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "how r u",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm fine."
+              },
+              {
+                "text": "Well enough to chat with you if you wish to."
+              },
+              {
+                "text": "I don't know, you tell me. How am I right now?"
+              },
+              {
+                "text": "I'm well."
+              },
+              {
+                "text": "I am fine, thank you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#how_r_u",
+      "dialog_node": "node_2_1575605515468",
+      "previous_sibling": "node_1_1575606117319",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "name ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Silly me, did I forget to introduce myself? I'm TOB-E your Al-Sagr agent ."
+              },
+              {
+                "text": "My name is TOB-E! your Al-Sagr agent"
+              },
+              {
+                "text": "I'm TOB-E."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#name",
+      "dialog_node": "node_8_1575605912421",
+      "previous_sibling": "node_7_1575547399859",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "language ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can understand almost all languages"
+              },
+              {
+                "text": "I will speak your language and gives you a natural experience!"
+              },
+              {
+                "text": " I can understand almost all languages."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_22_1575696171579"
+      },
+      "conditions": "#language",
+      "dialog_node": "node_7_1575694661731",
+      "previous_sibling": "node_4_1575694541275",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "do you like",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I live in a server so I love everything in this world."
+              },
+              {
+                "text": "I’ll leave that up to your imagination."
+              },
+              {
+                "text": "it's secret!"
+              },
+              {
+                "text": "I don't think I have picked a favorite yet."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#do_you_like",
+      "dialog_node": "node_8_1575547778096",
+      "previous_sibling": "node_8_1575547855135",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "jokes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What is the worst combination of illnesses?\n-\nAlzheimer’s and diarrhea. You’re running but can’t remember where."
+              },
+              {
+                "text": "A man is reading his newspaper and says to his wife: “Michelle, look. Here is an article about how women use about twice as many words per day as men do.”\n\nThe wife responds: “That’s because we have to tell you everything twice”"
+              },
+              {
+                "text": "One shop owner asks another, “So, have you had any reactions yet to your ad that you’re looking for a night guard?”\n\n“Yeah, we got robbed tonight.”"
+              },
+              {
+                "text": "My son Luke loves that we chose Star Wars characters as an inspiration when naming our kids. His sister Chewbacca und his brother Boba Fett are less amused."
+              },
+              {
+                "text": "“Have you been sleeping by an open window, like I told you?” asks a doctor his patient.\n\n“Yes, just like you said, doc.”\n\n“And is the bronchitis gone now?”\n\n“Not yet, so far the only things gone are my laptop and cellphone.”"
+              },
+              {
+                "text": "A boss announces to his staff: “I’ve lost a wallet with 500 dollars, if you find it, I’m offering a 100 dollars finder’s fee!”\n-\nA voice in the background says: “I’m offering 200!”"
+              },
+              {
+                "text": "\"When I see lovers' names carved in a tree, I don't think it's sweet. I just think it's surprising how many people bring a knife on a date.\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#jokes",
+      "dialog_node": "node_7_1575605567145",
+      "previous_sibling": "node_8_1575605912421",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "negative feedback",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm sorry that happened. 😓"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1575604441582",
+      "conditions": "#General_Negative_Feedback",
+      "dialog_node": "node_2_1575548433697",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "check condition engineering",
+      "output": {},
+      "parent": "node_4_1575534364590",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_1_1575693925505",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "okey ",
+      "output": {},
+      "parent": "node_5_1575537696641",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#okey",
+      "dialog_node": "node_22_1575696171579",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_46_1575697073145",
+      "disabled": true,
+      "conditions": "",
+      "dialog_node": "response_50_1575697073156",
+      "previous_sibling": "node_47_1575697073156"
+    },
+    {
+      "type": "standard",
+      "title": "help_yes ",
+      "output": {},
+      "parent": "node_46_1575697073145",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_47_1575697073156",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1575543783983",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1575543783999",
+      "previous_sibling": "handler_6_1575543783999"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_4_1575543783983",
+      "event_name": "input",
+      "dialog_node": "handler_6_1575543783999"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your valuable time.. Thank you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_47_1575697073156",
+      "conditions": "#no",
+      "dialog_node": "response_49_1575697073156",
+      "previous_sibling": "response_48_1575697073156"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Feel free to ask!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_47_1575697073156",
+      "conditions": "#yes",
+      "dialog_node": "response_48_1575697073156"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "oopz.. Currently i'm only trained with Al Sagr Travel insurance😣"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Please  check this link to know more about our Miscellaneous-accidents insurance.<br><a href=\"http://www.alsagrins.ae/?page_id=116\" target=\"_blank\">Al Sagr Miscellaneous-accidents insurance</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1575693938753",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1575530704019"
+      },
+      "conditions": "#no",
+      "dialog_node": "response_12_1575693938767",
+      "previous_sibling": "response_11_1575693938767"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Right choice!  <br> I will show you details about Al Sagr Travel insurance. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1575693938753",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1575697954707"
+      },
+      "conditions": "#yes",
+      "dialog_node": "response_11_1575693938767"
+    },
+    {
+      "type": "standard",
+      "title": "check condition miscellaneous",
+      "output": {},
+      "parent": "node_3_1575534486958",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_10_1575693938753",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tell me something! <br> how can i help you today?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1575544455939",
+      "conditions": "#okey",
+      "dialog_node": "node_4_1575702805947"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "oopz.. Currently i'm only trained with Al Sagr Travel insurance 😣"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Please  check this link to know more about our Property insurance.<br><a href=\"http://www.alsagrins.ae/?page_id=101\" target=\"_blank\">Al Sagr Property Insurance</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1575693313290",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1575530704019"
+      },
+      "conditions": "#no",
+      "dialog_node": "response_9_1575693347337",
+      "previous_sibling": "response_1_1575693334447"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Great choice 😍 <br> I will show you details about Al Sagr Travel insurance "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1575693313290",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1575697954707"
+      },
+      "conditions": "#yes",
+      "dialog_node": "response_1_1575693334447"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              },
+              {
+                "text": "If there's anything else you need to know, please let me know."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_1_1575703680895",
+      "conditions": "@beginning:yes or #okey or #General_Positive_Feedback",
+      "dialog_node": "response_5_1575703680921",
+      "previous_sibling": "node_2_1575703680921"
+    },
+    {
+      "type": "standard",
+      "title": "help_yes ",
+      "output": {},
+      "parent": "node_1_1575703680895",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_2_1575703680921",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your valuable time.. Thank you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1575703680921",
+      "conditions": "#no",
+      "dialog_node": "response_4_1575703680921",
+      "previous_sibling": "response_3_1575703680921"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Feel free to ask!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1575703680921",
+      "conditions": "#yes",
+      "dialog_node": "response_3_1575703680921"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your valuable time.. Thank you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_29_1575696871921",
+      "conditions": "#no",
+      "dialog_node": "response_31_1575696871931",
+      "previous_sibling": "response_30_1575696871931"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Feel free to ask!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_29_1575696871921",
+      "conditions": "#yes",
+      "dialog_node": "response_30_1575696871931"
+    },
+    {
+      "type": "standard",
+      "title": "claim",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All you have to do is prepare your proof of claim, which are all the related documents to your claim i.e. tickets, police reports… Etc, and submitted to the nearest claim center along with your travel policy or at least the number of it."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1575613649993",
+      "conditions": "#claim",
+      "dialog_node": "node_1_1575611826735",
+      "previous_sibling": "node_5_1575612013309",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Al  sagr about",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<h3>About Al-Sagr</h3>\n<p>Al Sagr National Insurance Company (ASNIC), Dubai, was incorporated on 25th December 1979 as a public shareholding company. </p>\n<p> The Company is licensed under License No. 16 in accordance with the Federal Insurance Law No. (9) of 1984 to transact all types of the insurance business.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1575613649993",
+      "conditions": "#walaa_about",
+      "dialog_node": "node_9_1575608981187",
+      "previous_sibling": "node_1_1575611509201",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "emergency",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In case of emergency kindly contact our Head Office on 04-7028500."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1575613649993",
+      "conditions": "#in_case_emergency",
+      "dialog_node": "node_1_1575611509201",
+      "previous_sibling": "node_1_1575611826735",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "apply",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<h3>Travel insurance</h3><br>You can apply online from <a href=\"https://online.alsagrins.ae/alsagrnewsystemweb/App/HostFW.aspx#/main/buyonlinelanding\" target=\"_blank\">http://www.alsagrins.ae/</a>  or contact the nearest branch."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1575613649993",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_22_1575696171579"
+      },
+      "conditions": "#How_apply",
+      "dialog_node": "node_5_1575612013309",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "okey",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_2_1575534796064",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#okey",
+      "dialog_node": "node_2_1575545823466",
+      "previous_sibling": "response_7_1575696330329",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Cool! It seems you are interested. </br> I will show you more details about the same"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1575534796064",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1575537696641"
+      },
+      "conditions": "#more_travel_insurance",
+      "dialog_node": "response_7_1575696330329"
+    },
+    {
+      "type": "standard",
+      "title": "check condition marine",
+      "output": {},
+      "parent": "node_4_1575534901292",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_13_1575694605144",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your valuable time.. Thank you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_26_1575696758883",
+      "conditions": "#no",
+      "dialog_node": "response_28_1575696758899",
+      "previous_sibling": "response_27_1575696758899"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Feel free to ask!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_26_1575696758883",
+      "conditions": "#yes",
+      "dialog_node": "response_27_1575696758899"
+    },
+    {
+      "type": "standard",
+      "title": "check condition motor insurance",
+      "output": {},
+      "parent": "node_1_1575534475599",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_4_1575693930431",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "okey ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_8_1575697954707",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#okey",
+      "dialog_node": "node_56_1575698123535"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "☺️ Is there anything else where I can help you?"
+              },
+              {
+                "text": "Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1575545816666",
+      "disabled": true,
+      "conditions": "",
+      "dialog_node": "response_4_1575546263456",
+      "previous_sibling": "node_43_1575697040912"
+    },
+    {
+      "type": "standard",
+      "title": "help_yes ",
+      "output": {},
+      "parent": "node_1_1575545816666",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_43_1575697040912",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I've lost the context. Are we still on 😪 ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1575547855135",
+      "conditions": "@emoji:sad",
+      "dialog_node": "response_7_1575608383293",
+      "previous_sibling": "response_9_1575608356126"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Glad I could make you laugh 😃."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1575547855135",
+      "conditions": "@emoji:joy",
+      "dialog_node": "response_9_1575608356126"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for your valuable time.. Thank you"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_57_1575698123543",
+      "conditions": "#no",
+      "dialog_node": "response_59_1575698123543",
+      "previous_sibling": "response_58_1575698123543"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Feel free to ask!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_57_1575698123543",
+      "conditions": "#yes",
+      "dialog_node": "response_58_1575698123543"
+    },
+    {
+      "type": "standard",
+      "title": "check condition medical",
+      "output": {},
+      "parent": "node_2_1575534480365",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#yes || #no",
+      "dialog_node": "node_7_1575693935503",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Al sagr comparison ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Apart from having reinsurance support from the world's leading reinsurers, the Company has its own Branches all over the UAE, and has a large scale insurance interest in the Kingdom of Saudi Arabia and Jordan."
+              },
+              {
+                "text": "The Company continues its pursuit of excellence in the sphere of service to its valued customers, always cater to their interest and offer several new insurance products with multiple benefits every year. ASNIC’s clients include government ministries, public service providers, municipalities, property developers, banks and construction companies."
+              },
+              {
+                "text": "ASNIC has been assigned a Financial Strength Rating of B+ (Good) by A.M. Best Europe – Rating Services Limited."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_22_1575696171579"
+      },
+      "conditions": "#comparission_walaa",
+      "dialog_node": "node_9_1575695222842",
+      "previous_sibling": "node_5_1575697423622",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Insurance types",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Insurance_type || #suggest_me_insurance",
+      "dialog_node": "node_3_1575530178838",
+      "previous_sibling": "node_5_1575530704019",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "How can i help you?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1575544455939",
+      "previous_sibling": "node_2_1575617983812",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "insurance importance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The main benefits of insurance are reducing the consumer's risks and inspiring increased peace of mind. If you have insurance you have peace in your mind."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_22_1575696171579"
+      },
+      "conditions": "#insurance_importance",
+      "dialog_node": "node_5_1575697423622",
+      "previous_sibling": "Welcome",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "property insurance",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#property_insurance",
+      "dialog_node": "node_4_1575530419285",
+      "previous_sibling": "node_3_1575530178838"
+    },
+    {
+      "type": "standard",
+      "title": "beginning",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " Is there anything else where I can help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@beginning:begining",
+      "dialog_node": "node_5_1575530704019",
+      "previous_sibling": "node_1_1575542700089",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Engineering insurance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This is a demo version, Currently, I am not trained with Engineering insurance info.</br>\nDo you want to know about Travel insurance?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "no"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#engineering_insurance",
+      "dialog_node": "node_4_1575534364590",
+      "previous_sibling": "node_4_1575530419285",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "features of travel insurance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " The key benefits includes medical emergency assistance, personal accident cover, reimbursement of expenses incurred due to cancelled, missed or delayed flight’s, as well as loss of personal belonging, passport and/or cash\n\n<a href =\"http://www.alsagrins.ae/?page_id=131\" target=\"_blank\">Al Sagr Travel Insurance\n\n</a>\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#features_cover || #offers",
+      "dialog_node": "node_1_1575542700089",
+      "previous_sibling": "node_4_1575604441582",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Motor Insurance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This is a demo version, Currently, I am not trained with Motor insurance info.</br>\nDo you want to know about travel insurance?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "no"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#motor_insurance",
+      "dialog_node": "node_1_1575534475599",
+      "previous_sibling": "node_4_1575534364590"
+    },
+    {
+      "type": "standard",
+      "title": "okey  - copy1",
+      "output": {},
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#okey",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1575703680895",
+      "previous_sibling": "node_5_1575537696641",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Travel insurance duration",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Travel Insurance can cover you for single as well as multi travels with policy period of up to one year. However, the period of stay during any travel should not exceed 60 days."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Period",
+      "dialog_node": "node_10_1579496580637",
+      "previous_sibling": "node_7_1579497297036"
+    },
+    {
+      "type": "standard",
+      "title": "marine insurance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This is a demo version, Currently, I am not trained with Marine insurance info.</br>\nDo you want to know about Travel insurance?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "no"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#marine_insurance",
+      "dialog_node": "node_4_1575534901292",
+      "previous_sibling": "node_3_1575534486958"
+    },
+    {
+      "type": "folder",
+      "title": "apply/exclude/claim/emergency",
+      "conditions": "#How_apply || #exclusion_wti || #claim || #in_case_emergency || #walaa_about || #Walaa_mean",
+      "dialog_node": "node_1_1575613649993",
+      "previous_sibling": "node_1_1575544455939"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing. "
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding. "
+              },
+              {
+                "text": "I didn't get your meaning.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_1_1575703680895",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Wti more details",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#more_travel_insurance",
+      "dialog_node": "node_2_1575534796064",
+      "previous_sibling": "node_10_1579496580637",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "folder",
+      "title": "General",
+      "conditions": "#General_Greetings || #General_Negative_Feedback || #General_Positive_Feedback || #General_Ending || #General_Human_or_Bot || #General_Connect_to_Agent || #General_Greetings || #emoji || #do_you_like || #bored || #age || #can_you_answer || #about_agent || #name || #jokes || #hobbies || #place || #how_r_u || #testing_you || #depression || #time || #language || #speak || #family || #love",
+      "dialog_node": "node_4_1575604441582",
+      "previous_sibling": "node_1_1575613649993"
+    },
+    {
+      "type": "standard",
+      "title": "cost",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To know more about cost and other details please contact our customer care executive on  +971 47028627."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#cost",
+      "dialog_node": "node_5_1575537696641",
+      "previous_sibling": "node_2_1575534796064",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Travel insurance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Al Sagr has developed a new series of travel insurance plans in association with MAPFRE Asistencia, the leading Spanish Insurance Group. The product offers you the best in class protection and assistance while traveling abroad."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#travel_insurance",
+      "dialog_node": "node_8_1575697954707",
+      "previous_sibling": "node_4_1575534901292"
+    },
+    {
+      "type": "standard",
+      "title": "Medical insurance ",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This is a demo version, Currently, I am not trained with Medical insurance info.</br>\nDo you want to know about Travel insurance?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "no"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#medical_insurance",
+      "dialog_node": "node_2_1575534480365",
+      "previous_sibling": "node_1_1575534475599"
+    },
+    {
+      "type": "standard",
+      "title": "destinations",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our service covers flights to all the destinations you can think of.\nIncluding Europe, USA and Canada"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#destinations_travel",
+      "dialog_node": "node_7_1579497297036",
+      "previous_sibling": "node_8_1575697954707"
+    },
+    {
+      "type": "standard",
+      "title": "complaints",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can follow the <a href=\"https://www.walaa.com/complaint-form\" target=\"_blank\">link</a> to contact us.<br>Our Customer Service Number is : <b>047028500</b>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#complaint",
+      "dialog_node": "node_2_1575617983812",
+      "previous_sibling": "node_9_1575695222842",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Miscellaneous insurance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This is a demo version, Currently, I am not trained with Miscellaneous accidents insurance info.</br>\nDo you want to know about Travel insurance?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "no"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Miscellaneous_accidents",
+      "dialog_node": "node_3_1575534486958",
+      "previous_sibling": "node_2_1575534480365"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1575544455939"
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome",
+      "disambiguation_opt_out": true
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "actually"
+    },
+    {
+      "text": "happy"
+    },
+    {
+      "text": "not"
+    },
+    {
+      "text": "what are the benifits"
+    }
+  ],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": ""
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Al-Sagr",
+  "language": "en",
+  "description": ""
+}
