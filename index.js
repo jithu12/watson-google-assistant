@@ -146,7 +146,7 @@ if(response==="Bye")
   request.inputs[0].intent='actions.intent.CANCEL';
 }
   // Combine the output messages into one message.
-  const output = response.output.text.join(' ');
+  const output = response.output.text.join(' ').replace(/<[^>]*>?/gm, '');
 
   // Build the response JSON
   const richResponse = {
